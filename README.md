@@ -1,4 +1,3 @@
-
 -----
 
 # Sound Wave Reverser in C
